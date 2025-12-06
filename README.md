@@ -8,7 +8,7 @@ This project serves both as a practical cybersecurity tool and as a demonstratio
 
 ---
 ## 🚀 Quickstart (cloned repo)
-
+       
 Prerequisites
 - Python 3.10+ (3.11/3.12/3.13 supported)
 - Node.js 18+ and npm
